@@ -4,7 +4,7 @@
 NeuroTrace is a lightweight, zero-dependency frontend prototype designed to visualize and monitor multi-step AI agent execution pipelines. Built entirely in vanilla HTML, CSS, and JavaScript, it demonstrates complex agentic architectures—such as ReAct loops, self-correction, and evaluation harnesses—running entirely on the client side.
 
 ## 🚀 Live Demo
-[Insert your GitHub Pages link here]
+neurotrace.vercel.app
 
 ## ⚡ Core Features
 
